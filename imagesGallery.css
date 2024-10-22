@@ -1,0 +1,75 @@
+header{
+    background-color:black;
+}
+
+footer{
+    text-align: center;
+    font-size: 20px;
+    font-family: monospace;
+    color:white;
+}
+
+main, body{
+    background-color:black;
+    color:white;
+}
+
+.titlePrincipal{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+
+.titleSecundary{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    color : black;
+}
+
+.unsplashLogo{
+    width: 25px;
+}
+
+.image1{
+    width: 824px;
+    height: 588px;
+    
+}
+
+.image2{
+    width: 824px;
+    height: 588px;
+}
+
+.image3{
+    width: 824px;
+    height: 588px;
+}
+
+.image4{
+    width: 824px;
+    height: 588px;
+}
+
+.image5{
+    width: 824px;
+    height: 588px;
+}
+
+.image6{
+    width: 824px;
+    height: 588px;
+}
+
+.image7{
+    width: 824px;
+    height: 588px;
+}
+
+.image8{
+    width: 824px;
+    height: 588px;
+}
