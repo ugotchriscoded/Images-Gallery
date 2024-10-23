@@ -12,13 +12,26 @@ main, body{
     color:white;
 }
 
-.unsplashLogo{
-    width: 25px;
+.allCards{
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
 }
 
 .imageContainer{
     width: 824px;
     height: 588px;
+}
+
+
+
+p{
+    display:flex;
+    justify-content: center;
+}
+
+.unsplashLogo{
+    width: 25px;
 }
 
 footer{
