@@ -2,11 +2,9 @@ header{
     background-color:black;
 }
 
-footer{
-    text-align: center;
-    font-size: 20px;
-    font-family: monospace;
-    color:white;
+h1, h2{
+    display:flex;
+    justify-content: center;
 }
 
 main, body{
@@ -21,4 +19,11 @@ main, body{
 .imageContainer{
     width: 824px;
     height: 588px;
+}
+
+footer{
+    text-align: center;
+    font-size: 20px;
+    font-family: monospace;
+    color:white;
 }
