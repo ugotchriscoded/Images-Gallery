@@ -23,7 +23,7 @@ main, body{
     height: 588px;
 }
 
-div{
+p{
     display:flex;
     justify-content: center;
 }
