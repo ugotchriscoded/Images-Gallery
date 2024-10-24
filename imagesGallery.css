@@ -26,8 +26,8 @@ main, body{
 }
 
 .imageContainer{
-    width: 824px;
-    height: 588px;
+    max-width: 450px;
+    max-height: 450px;
 }
 
 p{
